@@ -8,7 +8,7 @@
     color: white;
     font-weight: bold;
     border: none;
-    padding: 10px 20px;
+    padding: 20px 50px;
     border-radius: 5px;
     margin-top: 20px;
 }
@@ -161,4 +161,23 @@
 .instagram-images img{
     width: 270px;
     margin: 0px 10px;
+}
+
+/* latest Deals */
+.latest-deals{
+    background-image: url('../images/Rectangle\ 9.png');
+    background-position: center;
+    background-size: cover;
+    margin:0 100px;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.latest-deals input[type='email']{
+    border: none;
+    width: 400px;
+    outline: none;
+    border-radius: 5px;
+    padding: 20px 10px;
+    margin-right: 20px;
 }
