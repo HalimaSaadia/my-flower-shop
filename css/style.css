@@ -88,3 +88,51 @@
     border-radius: 5px;
     margin-top: 20px;
 }
+.feature-flowers-container{
+    text-align: center;
+    padding: 50px 0;
+}
+.feature-flower-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.feature-flower-sub-title{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.feature-flowers{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+}
+.feature-flower{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 0px 20px;
+    padding-top: 50px;
+    border-radius:50% 50% 0 0;
+}
+.feature-flower-pink-tulip{
+    background-color: #F2DEE7;
+}
+.feature-flower-bouquet{
+    background-color: #D9EFF1;
+}
+.feature-flower-yellow-tulip{
+    background-color: #E3EBDB;
+}
+.feature-flower-img img{
+    height: 300px;
+}
