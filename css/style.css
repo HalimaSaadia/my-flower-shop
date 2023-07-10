@@ -21,6 +21,7 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-bottom: 20px;
 }
 
 .section-description{
@@ -30,7 +31,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .menu-container{
@@ -146,4 +147,18 @@
 .hot-deal-off{
     color: #E55473;
     font-weight: bold;
+}
+
+/* Instagram */
+.instagram{
+    text-align: center;
+    padding: 100px;
+}
+.instagram-images{
+    display: flex;
+}
+
+.instagram-images img{
+    width: 270px;
+    margin: 0px 10px;
 }
