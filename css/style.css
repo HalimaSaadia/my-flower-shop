@@ -120,6 +120,11 @@
     padding-top: 50px;
     border-radius:50% 50% 0 0;
 }
+.feature-flower a{
+    color: #272727;
+    font-size: 18px;
+    font-weight: 600;
+}
 
 .feature-flower-pink-tulip{
     background-color: #F2DEE7;
